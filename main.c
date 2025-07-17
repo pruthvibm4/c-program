@@ -1,7 +1,7 @@
 void biggest2();
 void factorial();
 void reverse();
-main () {
+int main () {
 	biggest2();
 	factorial();
 	reverse();
